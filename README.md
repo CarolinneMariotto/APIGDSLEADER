@@ -19,7 +19,7 @@ Descrição da demanda realizada pelo parceiro acadêmico.
 | Scrum Master  |  Carolinne Mariotto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/carolinne-mariotto-27a7b1222?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)  |
 | Team Member   | Henquique Silva  |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/henrique-trindade-da-silva-508888245?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)        |
 |  Team Member  | Livia Batista    |         [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%ADvia-gon%C3%A7alves-319bb42b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)       |
-|  Team Member  | Barbara Mendes |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/gabriel-camargo-915452196/)](https://www.linkedin.com/in/b%C3%A1rbara-mendes-09a3b9225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
+|  Team Member  | Barbara Mendes |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-mendes-09a3b9225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
 
 # Objetivo do Projeto
 Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
