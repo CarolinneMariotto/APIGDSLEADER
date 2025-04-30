@@ -87,7 +87,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Registro das Sprints
 
-Sprint | Previsão | Status| 
+|Sprint | Previsão | Status| 
 |------|--------|------|--------|
 |KICK-OFF | 02/04/2025 | concluido| 
 |SPRINT 1| 30/04/2025| em andamento|
