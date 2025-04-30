@@ -87,10 +87,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Registro das Sprints
 
-|Sprint | Previsão | Status| 
-|------|--------|------|--------|
-|KICK-OFF | 02/04/2025 | concluido| 
-|SPRINT 1| 30/04/2025| em andamento|
-|SPRINT 2| 21/05/2025 | a fazer|
-|SPRINT 3| 11/06/2025 |a fazer |
-|Feira de Soluções|dd/mm/aaaa |a fazer |
+Sprint | Previsão | Status| Histórico|    
+|------|--------|------|--------|    
+|KICK-OFF| 02/04/2025 | concluido| [MVP](https://) |     
+|SPRINT 1| 30/04/2025| em andamento|[MVP](https://) |     
+|SPRINT 2| 21/052025 | a fazer|[MVP](https://) |     
+|SPRINT 3| 11/06/2025 |a fazer |[MVP](https://)  |     
+|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
