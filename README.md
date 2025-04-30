@@ -32,10 +32,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 ## Tecnologias Utilizadas
 
  ### Tecnologias Específicas/Apoio
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
-  
+
+* Microsoft Office - Documentação, planilhas, apresentações
+* Jira Software - Gestão de tarefas e projetos ágeis
+* Canva - Design do projeto
+ 
  ### Tecnologias da Informação
- > Liste aqui todas as tecnologias utilizadas para concluir a entrega
+ 
+* MySQL - Banco de dados relacional
+* Power BI - Análise de dados e visualização de indicadores
+* GitHUb - Versionamento de código e colaboração em projetos de software
 
 # Backlog do produto
 
@@ -81,10 +87,10 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 # Registro das Sprints
 
-Sprint | Previsão | Status| Histórico|
+Sprint | Previsão | Status| 
 |------|--------|------|--------|
-|01 | 30/04/2025 | a fazer| [MVP](https://) | 
-|02|  dd/mm/aaaa| a fazer|[MVP](https://) | 
-|03| dd/mm/aaaa | a fazer|[MVP](https://) | 
-|04| dd/mm/aaaa |a fazer |[MVP](https://)  | 
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|KICK-OFF | 02/04/2025 | concluido| 
+|SPRINT 1| 30/04/2025| em andamento|
+|SPRINT 2| 21/05/2025 | a fazer|
+|SPRINT 3| 11/06/2025 |a fazer |
+|Feira de Soluções|dd/mm/aaaa |a fazer |
