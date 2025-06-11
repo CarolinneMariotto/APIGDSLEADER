@@ -22,11 +22,11 @@ Este projeto tem como objetivo transformar dados públicos sobre as exportaçõe
 |  Team Member  | Barbara Mendes |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/b%C3%A1rbara-mendes-09a3b9225?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)   |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
+O principal objetivo do projeto é oferecer insights estratégicos baseados em dados públicos, facilitando o entendimento do cenário nacional de exportações.
+* Identificar as URFs (Unidades da Receita Federal) responsáveis pelo processamento das exportações;
+* Levantar as principais cargas movimentadas por estado brasileiro;
+* Mapear os principais países de destino das exportações nacionais;
+* Realizar uma análise temporal mensal, evidenciando sazonalidades no fluxo de cargas;
 * Desenvolver habilidades técnicas.
 
 ## Tecnologias Utilizadas
