@@ -1,5 +1,6 @@
 # APIGDSLEADER
 
+![Logo do Grupo](assets/logo.png)
 
 # Índice
 * [Projeto](#projeto-template)
@@ -46,51 +47,31 @@ O principal objetivo do projeto é oferecer insights estratégicos baseados em d
 # Backlog do produto
 
 ## Sprint 1
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Definição do objetivo do projeto;
+- [ ] Distribuição de tarefas entre os integrantes;
+- [ ] Pesquisa sobre o tema e ferramentas a serem utilizadas;
+- [ ] Criação do logo da equipe/empresa fictícia;
+- [ ] Desenvolvimento inicial de slides com base nas pesquisas.
 
 ## Sprint 2
-- [ ] Documento passo a passo;
-- [ ] Vídeo passo a passo;
-- [ ] Treinamento com os professores;
-- [ ] Treinamento com os alunos;
-- [ ] Monitoramento e ajustes.
+- [ ] Início da execução prática das tarefas individuais;
+- [ ] Coleta dos dados públicos de exportações brasileiras;
+- [ ] Tratamento dos dados no MySQL;
+- [ ] Criação do repositório e alimentação do GitHub;
+- [ ] Organização de tarefas no Jira;
+- [ ] Desenvolvimento do layout inicial no Power BI.
       
 ## Sprint 3
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
-      
-## Sprint 4
-- [ ] Defina o propósito do template;
-- [ ] Identifique os elementos principais;
-- [ ] Esboce o layout;
-- [ ] Escolha cores e fontes;
-- [ ] Desenvolva o design;
-- [ ] Teste e revise;
-- [ ] Documente instruções de uso;
-- [ ] Criação do vídeo;
-- [ ] Finalize e aprovação.
+- [ ] Finalização do dashboard no Power BI com os dados tratados;
+- [ ] Atualização do Jira com o progresso do projeto;
+- [ ] Atualização do repositório no GitHub com os resultados finais.
 
 # Registro das Sprints
 
 Sprint | Previsão | Status| Histórico|    
 |------|--------|------|--------|    
 |KICK-OFF| 02/04/2025 | concluido| [MVP](https://) |     
-|SPRINT 1| 30/04/2025| em andamento|[MVP](https://) |     
-|SPRINT 2| 21/052025 | a fazer|[MVP](https://) |     
-|SPRINT 3| 11/06/2025 |a fazer |[MVP](https://)  |     
-|Feira de Soluções|dd/mm/aaaa |a fazer |[MVP](https://) | 
+|SPRINT 1| 30/04/2025| conluido|[MVP](https://) |     
+|SPRINT 2| 21/052025 | concluido|[MVP](https://) |     
+|SPRINT 3| 11/06/2025 | conluido |[MVP](https://)  |     
+|Feira de Soluções|17/06/2025|a fazer |[MVP](https://) | 
