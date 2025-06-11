@@ -10,7 +10,7 @@
 * [Backlog do produto](#Backlog-do-produto)
 
 # Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+Este projeto tem como objetivo transformar dados públicos sobre as exportações brasileiras em informações claras e acessíveis, revelando padrões logísticos e comerciais que muitas vezes passam despercebidos em meio a grandes volumes de dados. A partir da análise detalhada das URFs (Unidades da Receita Federal) que processam as exportações, dos tipos de cargas mais movimentadas por estado e dos principais países de destino, foi possível construir uma visão estratégica sobre o fluxo de exportações do Brasil. Além disso, a análise mensal permitiu identificar comportamentos sazonais, oferecendo insights relevantes para planejamentos logísticos e operacionais. O projeto foi desenvolvido com apoio de ferramentas como MySQL para estruturação e análise dos dados, Power BI para visualização dos indicadores, e GitHub para versionamento. Também foram utilizadas ferramentas de apoio como Jira Software para organização das tarefas, Canva para a parte visual e Microsoft Office para documentação e apresentações. Mais do que um exercício técnico, este trabalho representa uma experiência prática de aplicar tecnologia, análise de dados e gestão de projetos em um cenário real e relevante.
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn                                                                                                                                                      |
