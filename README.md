@@ -47,8 +47,6 @@ O principal objetivo do projeto é oferecer insights estratégicos baseados em d
 
 # Documentção 
 
-[📄 Baixar Apresentação em PDF](file:///C:/Users/CarolinneMariotto/Downloads/APRESENTA%C3%87%C3%83O%20API.pdf)
-
 ![PowerBI](assets/logo.png)![powebi](https://github.com/user-attachments/assets/e9303564-86e3-46ba-ae10-b41f5ae5298b)
 
 ![MySQL](assets/logo.png)![Imagem do WhatsApp de 2025-06-11 à(s) 15 52 51_5d54817d](https://github.com/user-attachments/assets/662fe6f9-fcf8-4c84-bf66-a97666de2558)
