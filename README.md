@@ -1,12 +1,13 @@
 # APIGDSLEADER
 
-![Logo do Grupo](assets/logo.png)
+![Logo do Grupo](assets/logo.png)![Apresentação de Slides Corporativo Preto e Branco](https://github.com/user-attachments/assets/5a5313f7-1dc8-44b0-b7c0-9ef2b9d09949)
 
 # Índice
 * [Projeto](#projeto-template)
 * [Equipe](#equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Sprints](#Sprints)
+* [Documentação](#Documentção)
 * [Burndown](#Burndown)
 * [Backlog do produto](#Backlog-do-produto)
 
@@ -43,6 +44,12 @@ O principal objetivo do projeto é oferecer insights estratégicos baseados em d
 * MySQL - Banco de dados relacional
 * Power BI - Análise de dados e visualização de indicadores
 * GitHUb - Versionamento de código e colaboração em projetos de software
+
+# Documentção 
+
+![PowerBI](assets/logo.png)![powebi](https://github.com/user-attachments/assets/e9303564-86e3-46ba-ae10-b41f5ae5298b)
+
+![MySQL](assets/logo.png)![Imagem do WhatsApp de 2025-06-11 à(s) 15 52 51_5d54817d](https://github.com/user-attachments/assets/662fe6f9-fcf8-4c84-bf66-a97666de2558)
 
 # Backlog do produto
 
